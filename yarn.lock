@@ -6185,7 +6185,7 @@ quill-delta@4.1.0:
     extend "^3.0.2"
     fast-diff "1.2.0"
 
-quill@^2.0.3:
+"quill@git@github.com:quilljs/quill.git#df2cf1668c0a80301d48de6bcb206da98543c8e9":
   version "2.0.0-dev.3"
   resolved "https://registry.npm.taobao.org/quill/download/quill-2.0.0-dev.3.tgz#3fc0e6113b5d991ce5d662542ae0eb7ffbbaee66"
   integrity sha1-P8DmETtdmRzl1mJUKuDrf/u67mY=

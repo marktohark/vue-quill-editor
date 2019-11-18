@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "quill": "^2.0.3"
+    "quill": "git@github.com:quilljs/quill.git#df2cf1668c0a80301d48de6bcb206da98543c8e9"
   },
   "expDependencies": {
     "node-sass": "^4.7.2",
